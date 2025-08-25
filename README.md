@@ -56,7 +56,7 @@ Each group or student will work on a unique case study and submit their work und
 | Student Name | Case Study Title | Code | Presentation | Report |
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
-| Craig Rudman | | | | | |
+| Craig Rudman | Evaluating Fairness in Mortgage Markets: Insights from the 2024 HMDA Data | [code](https://github.com/craig-rudman/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_Summer_Fairness_In_Lending_HDMA_2024/code/)| [Slides](https://github.com/craig-rudman/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_Summer_Fairness_In_Lending_HDMA_2024/presentation/)| [report](https://github.com/craig-rudman/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_Summer_Fairness_In_Lending_HDMA_2024/report/)|
 
 
 ---
