@@ -51,6 +51,7 @@ This repository serves as a centralized hub for all student projects, including 
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
+| Priyanka Saha | Biases in AI Recruitment Tools | [Code](25Sumr8W2_MSDS640_X70/2025_Summer_Biases_in_AI_Recruitment_Tools/Code/) | [Slides](25Sumr8W2_MSDS640_X70/2025_Summer_Biases_in_AI_Recruitment_Tools/Presentation/Biases_in_AI_Recruitment_Tools.pptx) | [Report](25Sumr8W2_MSDS640_X70/2025_Summer_Biases_in_AI_Recruitment_Tools/Report/Biases_in_AI_Recruitment_Tools.pdf) |
 
 | Student Name | Case Study Title | Code | Presentation | Report |
 |--------------|------------------|------|--------------|--------|
