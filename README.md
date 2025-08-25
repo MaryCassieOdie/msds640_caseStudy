@@ -51,6 +51,9 @@ This repository serves as a centralized hub for all student projects, including 
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
+| Gowri Shankar | Violence against Women and Girls | [Code](25Sumr8W2_MSDS640_X70/2025_Summer_Violence_against_women_and_girls/code) | [Slides](25Sumr8W2_MSDS640_X70/2025_Violence against Women and Girls/presentation/MSDS640 Week 8 Final Presentation-Gowri Shankar.pptx) | [Report](25Sumr8W2_MSDS640_X70/2025_Summer_Violence_against_women_and_girls/report/MSDS640 Violence against women and girls Case Study Gowri Shankar.pdf |
+
+
 
 
 ---
