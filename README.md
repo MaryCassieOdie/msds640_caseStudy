@@ -1,16 +1,12 @@
 # MSDS640 - Case Studies
 
-This repository serves as a centralized hub for all student projects, including their code, presentations, and final reports.
-
-Each group or student will work on a unique case study and submit their work under the corresponding sections below. 
+This repository serves as a centralized hub for all student projects, including their code, presentations, and final reports. Each group or student will work on a unique case study and submit their work under the corresponding sections below.
 
 ---
 
 ## Submission Instructions
-
-1. **Create a folder** using the following format in the sub course folder:
-
-   `[Year]_[Semester]_[Short_Title]`
+1. **Create a folder** using the following format in the sub-course folder:
+   `[Year]_[Short_Title]`
       
 *Examples:*
 - `2025_Spring_AI_Hiring_Bias`
@@ -36,12 +32,10 @@ Each group or student will work on a unique case study and submit their work und
    - Links to your code, presentation, and report
 
 5. **Post in the Regis MSDS LinkedIn Group**:
-- Write summary of your case study and share it on the following LinkedIn group:  
+- Write short summary of your case study and share it on the following LinkedIn Regis University MSDS group:  
   👉 [MSDS LinkedIn Group](https://www.linkedin.com/groups/12682252/)
 
-
 - Write the report using [**APA LaTeX Template**](https://github.com/iamgmujtaba/LaTeX-APA_Template)
-
 - If you have any questions, reach out to your instructor.
 
 ---
@@ -78,5 +72,17 @@ Each group or student will work on a unique case study and submit their work und
 |Bharath Chandra|Racial Bias in HMDA dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 |Harsha Vardhini|Racial Bias in HMDA Dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 | Yassine Alami|Bias in AI Predictive Policing|[Code](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
+
+---
+
+
+### 24Fall8W2_MSDS640
+| Name | Case Study Title | 
+|--------------|------------------|
+| Pavan Kalyan Reddy Kamasaani, Praveen Goud Angolla, and Karunakar Thammadi| Ethical AI in Hiring | 
+| Maryi Palacios, Barsha Kakshapatii, and Villi Sigurdsson |Data Breach Analysis: A Comprehensive Study | 
+| Madhuri Kothi, Nahian Arnob, and Chamundeshwari Kottur |Ethical Analysis of Predictive Analytics in Retail Industry |
+| Kommineni Rayudu, Sonam Rinjin Sherpa, Karthik Javvaji, and Raji Reddy |Resume Bias in AI Hiring Systems |
+| Prakriti Dahal, Rabin Acharya, Apurba Poudel, and Adam Khay |Breast Cancer Patient Bias |
 
 ---
