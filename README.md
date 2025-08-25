@@ -78,6 +78,7 @@ This repository serves as a centralized hub for all student projects, including 
 |Bharath Chandra|Racial Bias in HMDA dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 |Harsha Vardhini|Racial Bias in HMDA Dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 | Yassine Alami|Bias in AI Predictive Policing|[Code](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
+| Nagarjuna Devarayi| Data Analysis and Case Study Hub|[Code](https://github.com/arjun7973/msds640_caseStudy/tree/main/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
 
 ---
 
